@@ -1,7 +1,5 @@
 ### Hi 👋 I'm Rohit Padage
 
-
-- 🌱 I’m currently learning DSA,Backend Developement
 - 📫 How to reach me: rohitpadage123@gmail.com
 
 ### Connect with me:
